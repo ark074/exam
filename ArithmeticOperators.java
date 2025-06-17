@@ -3,7 +3,8 @@ import java.util.Scanner;
 public class ArithmeticOperators {
 	public static void main(String[] args) {
 		
-
+num1=3;
+		num2=5;
 		System.out.print("Enter the first number: ");
 		double num1 = Integer.parseInt(args[0]);
 
